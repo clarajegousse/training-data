@@ -1,5 +1,9 @@
+----- THE SAINSBURY LABORATORY -----
+
 The Sainsbury Laboratory (tsl.ac.uk) is an independent research institute that focuses on plant health for a sustainable future. 
 It makes fundamental scientific discoveries in molecular plant-microbe interactions and applies these to reduce crop losses caused by plant diseases, particularly in low-income countries. 
 Around one hundred and twenty staff and students work and study at the Laboratory which is located on the Norwich Research Park, United Kingdom. 
 The Laboratory is generously supported by the Gatsby Charitable Foundation and by the University of East Anglia, wins competitive grants from the BBSRC, ERC and other research grant funding bodies and, for some research programmes, is funded by commercial companies. 
 Established in 1987, highlights of The Sainsbury Laboratory include: discovery of RNA interference in plants by Prof. Sir David Baulcombe FRS as recognised by the Lasker Award and the Wolf Prize in Agriculture, discovery of the first immune receptor in plants by Prof. Jonathan Jones FRS, three current Group Leaders are Fellows of the Royal Society, and five researchers who have been on the Highly Cited Researchers list of top 1% scientists in the world since 2018.
+
+----- THE END -----
